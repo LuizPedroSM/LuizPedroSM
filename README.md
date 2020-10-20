@@ -126,6 +126,6 @@
 
 </details>
 
-[website]: https://luizpedrosm.github.io/
+[portifolio]: https://luizpedrosm.github.io/
 [linkedin]: https://linkedin.com/in/luizpedrosm
 [behance]: https://www.behance.net/luizpedrosm
