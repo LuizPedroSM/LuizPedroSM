@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Laravel, NodeJs, React, React Native**
 
-- 👨‍💻 My projects are available at [portifolio](portifolio)
+- 👨‍💻 My projects are available at [portifolio]
 
 ## Participations
 
