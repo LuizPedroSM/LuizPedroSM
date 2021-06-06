@@ -48,12 +48,6 @@
 <img  height="250px" src="https://github-readme-stats.luizpedrosm.vercel.app/api?username=luizpedrosm&show_icons=true&hide_border=true&theme=dark" alt="Luiz Pedro's GitHub stats" />
 <img  height="250px" src="https://github-readme-stats.luizpedrosm.vercel.app/api/top-langs/?username=luizpedrosm&layout=compact&langs_count=10&hide_border=true&theme=dark" alt="Luiz Pedro's GitHub stats" />
 
-### Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
 <details>
 <summary>Skills</summary>
 <br/>
